@@ -11,7 +11,10 @@ import java.util.List;
 
 /**
  *
- * @author ASUS
+ * @author Juan Diego Martínez – 20231020131
+ * @author Luis Felipe Suárez – 2023102033
+ * @author Carlos Brito – 20241020147
+ * @author Iván López – 20232020113
  */
 public class NotificadorVehiculo {
     private List<ObservadorVehiculo> observadores = new ArrayList<>();
