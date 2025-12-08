@@ -23,7 +23,6 @@ Aquí documentaremos el progreso, las decisiones de diseño y los resultados obt
 
 ##  Actualizaciones
 
-A medida que avancemos en el proyecto, este documento se irá actualizando con nuevas secciones, avances y entregas correspondientes.
 Estado: Finalizado
 ---
 
