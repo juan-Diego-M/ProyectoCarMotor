@@ -20,7 +20,8 @@ Aquí documentaremos el progreso, las decisiones de diseño y los resultados obt
 **Asignatura:** Modelos de Programación  
 
 ---
-
+## Link del video del funcionamiento del programa:
+https://youtu.be/xAWQ3HsZQz8?si=9nxxiPkekbhsCGwa
 ##  Actualizaciones
 
 Estado: Finalizado
